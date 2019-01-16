@@ -8,7 +8,7 @@ header {
 	width: 100%;
 }
 .hero-image {
-	background-image: url("img/banner-html5.jpg");
+	background-image: url("https://previews.dropbox.com/p/thumb/AAT3Op-YiHLnlU-cG-NTJljsC1bh8KYHwPkOimS3ur-lE1DYPcOedKY-jxcQ7YnQemxmHMPn_JrKZq_zVF-KulvxaPkpiLifY4gbyQFTgaP3_VOTJI-z84WiuEhcZCAD6m_lyzbn8_1-iCjsg1WxolwaSNiOzUOo5wuTjLBYUtDd1JcA8aAipMkraxbXmwMFSmavQIpul2zJM1K5LFr6j266xWnM1_yxxFE644Y2IMYlxw/p.jpeg?size=1280x960&size_mode=3");
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -20,7 +20,7 @@ ul {
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
-	background-color: #333;
+	background-color: #222;
 }
 li {
 	float: left;
@@ -33,5 +33,5 @@ li a {
 	text-decoration: none;
 }
 li a:hover {
-	background-color: #111;
+	background-color: #116;
 }
